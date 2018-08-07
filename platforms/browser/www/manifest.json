@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "nelayan",
+  "short_name": "nelayan",
+  "version": "nelayan.nelayan.nelayan",
+  "description": "nelayan",
+  "author": "nelayan",
+  "icons": [],
+  "start_url": "index.html"
+}
